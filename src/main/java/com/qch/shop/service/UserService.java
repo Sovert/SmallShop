@@ -1,6 +1,5 @@
 package com.qch.shop.service;
 
-
 import com.qch.shop.model.entity.User;
 /**
  * User Service
